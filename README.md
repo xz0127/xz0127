@@ -6,7 +6,9 @@
 - 👯 Find more about me [here](https://xz0127.github.io/portfolio/)
 
 
-[![Xin Zhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=xz0127&repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Xin Zhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=xz0127&repo=github-readme-stats&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xz0127&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **xz0127/xz0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
