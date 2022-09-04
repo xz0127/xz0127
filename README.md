@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently a penultimate computer science student from NUS :)
-- 🔭 I’m currently working with friends on a web application to boost your productivity 
-- 😄 I'm heading to TikTok for summer internship!
+- 🌱 I’m currently a final computer science student from NUS :)
+- 😄 I'm working at TikTok as a Backend Engineer Intern!
+- 🔭 I’m currently working with friends on [Wonder Space](https://www.wonderspace.app/) 
 - 📫 How to reach me: drop me an email at xinzhe0127@gmail.com
 - 👯 Find more about me [here](https://xz0127.github.io/portfolio/)
 
